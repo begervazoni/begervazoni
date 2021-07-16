@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @begervazoni
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning about JavaScript 
-- 💞️ I’m looking to collaborate on whanever I can
+- 💞️ I’m looking to collaborate on whenever I can
 - 📫 How to reach me you can contact me at begervazoni@gmail.com
 
 <!---
