@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @begervazoni
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning about JavaScript 
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning about JavaScript and frameworks 
 - 💞️ I’m looking to collaborate on whenever I can
 - 📫 How to reach me you can contact me at begervazoni@gmail.com
 
