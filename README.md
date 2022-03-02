@@ -1,5 +1,5 @@
 #  👋 Hi, I’m @begervazoni
-## * 👀 I’m interested in full stack development
+## * 👀 I’m interested in became a full stack developer
 ## * 🌱 I’m currently learning about JavaScript and frameworks 
 ### * 💞️ I’m always looking to improve myself 
 >📫 How to reach me you can contact me at begervazoni@gmail.com
